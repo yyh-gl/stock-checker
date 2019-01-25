@@ -9,5 +9,5 @@ git_source(:github) do |repo_name|
 end
 
 gem 'nokogiri'
-gem 'dotenv-rails', require: 'dotenv/rails-now'
+gem 'dotenv-rails'
 gem 'slack-notifier'
