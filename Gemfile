@@ -1,5 +1,4 @@
 # coding: utf-8
-ruby '2.5.1'
 
 source 'https://rubygems.org'
 
